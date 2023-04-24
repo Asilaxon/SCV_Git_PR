@@ -15,3 +15,5 @@
 ---
 * На сайте GitHub выполнить **Pull request**.
 ---
+* Learning to work with Github
+---
